@@ -4,29 +4,39 @@
 Looking for a software position where I can code, talk to customers, and work
 with and/or lead engineering teams. 
 
+I like working on software problems where I can apply my background in electrical engineering, signal processing and applied mathematics. I prefer working on projects where the end-user is one hop away. 
+
+## Education
+
+**University of Virginia 2012**  
+**B.S. Electrical Engineering** with High Honors  
+Concentrations: Signal & Image Processing and Control systems  
+GPA: **3.72**/4.00
+
 ## Skills and Knowledge
 
 **Languages & Tools in Production Environments**
  
 + Python: [NLTK/Flask/Numpy/Scipy]
-+ Objective-C [iOS/Cocoa]
-+ Javascript/Node [Meteor]
-+ MATLAB/Octave [DSP/Image Processing]
++ Objective-C: [iOS/Cocoa]
++ Javascript/Node: [Meteor]
++ MATLAB/Octave: [DSP/Image Processing]
 + MongoDB
 + RegEx
-+ C [Microcontroller]
-+ SQL [Postgres/MySQL/Teradata-Aster]
-+ C++ [Boost Libraries]
++ C
++ SQL: [Postgres/MySQL/Teradata-Aster]
++ C++: [Boost Libraries]
 + Git & Subversion
 + XCode, VIM, Eclipse
 + Heroku
-+ AWS [ElasticBeanStalk/S3/EC2]
++ AWS: [ElasticBeanStalk/S3/EC2]
 
 **Language & Tools for Fun**:
 
 + Haskell, Julia, R
 + Arduino
 + Weka
+
 
 ## Work Experience
 
@@ -83,3 +93,20 @@ _June 2011 to August 2011_
 _Founder - Mountain View, Ca_  _June 2012 to October 2013_
 + Built [reachd](www.reachd.me). Using Natural Language Processing to generate automatic,intelligent and context aware SMS responses to questions about user's location. (Previously) available in in App Store.+ Created WalkBack, a product for student safety while in college. (Previously) available in App store.
 + Built e-mail automation tools for cold e-mailing leads similar to SalesLoft Cadence and Outreach.io.
+
+## Contact Information
+
+**Analog:**  
+
+2315 NE Couch St.  
+Portland, OR 97232  
+(703)-725-9158  
+skype: ashutosh.priyadarshy
+
+
+**Digital:**
+[root@ashuto.sh](mailto:root@ashuto.sh) |
+[LinkedIn](www.linkedin.com/in/ashutoshpriyadarshy/) |
+[Twitter](www.twitter.com/thepriyadarshy) |
+[GitHub](www.github.com/thepriyadarshy) |
+[Facebook](www.facebook.com/thepriyadarshy)

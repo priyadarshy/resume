@@ -4,18 +4,11 @@
 Looking for a software position where I can code, talk to customers, and work
 with and/or lead engineering teams. 
 
-#### Fast Navigation:
-[Education](#education)   
-[Work & Research Experience](#researchwork)  
-[Skills & Knowledge](#skills)   
-[Relevant Courses](#courses)  
-[Products Built](#products)  
-[Publications](#publications)  
-[Teaching Experience](#teaching)  
-[Competitions](#competitions)  
-[Awards](#awards)  
-[Older Stuff](#old)  
-[Contact](#contact)
+Things I enjoy and keep me motivated:  
+
++ Software problems where I  apply my background in electrical engineering, signal processing and applied mathematics.  
++ Automating mundane business/information retreival tasks with scripts and web scrapers.  
++ Software where I'm only one hop away from the user. 
 
 <a id="education"></a>
 ## Education
@@ -26,14 +19,14 @@ Concentrations: Signal & **Image Processing** and Control systems
 GPA: **3.72**/4.00
 
 <a id="researchwork"></a>
-## Research & Work Experience
+## Work Experience
 
 ##### Sunsama
-_Co-Founder - San Mateo, CA & Portland, OR_
+_Co-Founder - San Mateo, CA & Portland, OR_  
 _October 2013 to November 2015_
 
-+ Built initial team of 5 engineers. 
-+ Built initial prototypes in Meteor and Python. 
++ Built initial team of 5 engineers to build a "team based calendar"
++ Used Meteor, Python, NLTK, Flask, AWS Daily
 + Raised Angel funding.
 + Performed outbound sales and customer conversations. 
 + Used Python/Flask/NLTK to build an e-mail "AI" that automatically handled
@@ -41,6 +34,9 @@ _October 2013 to November 2015_
 + Built the "scheduling engine" algorithms which takes an arbitrary number of users,
   calendars, preferences and returns good times to meet while accounting for
   travel times and location.
++ Built a chrome extension that scheduled meetings similar to "Assitant.to"
++ Built various scrapers to automate tasks like investor outreach, potential customer outreach. 
++ Created lead-enrichment software to rank prospects by technology usage (Slack) and Alexa rank. 
 
 ##### LUMOBody Tech
 _DSP and User Interaction Engineer - Palo Alto, Ca_  
@@ -60,7 +56,7 @@ _September 2011 to May 2012_
 
 + Developed MATLAB simulator for Differential InSAR to model sinkholes.
 + Image Segmentation and clustering of Highly Confluent Bovine Endothileal cells.
-+ Taught iOS development to lab group..
++ Taught iOS development to lab group.
 
 ##### United States Naval Research Laboratory
 _Intern in Tactical Electronic Warfare Division - Washington, D.C._  
@@ -75,35 +71,36 @@ _Intern in Electronic Warfare - Fairfax, Va_
 _June 2011 to August 2011_
 
 + Simulation and implementation of the Cognitive-Radio, Electronic Warfare adaptive polyphase-channelizer used forinterference cancellation, highly efficient signal reconstruction and anti-jam tactics.+ Extensive applications of multi-rate signal processing, filter bank theory, time-frequency analysis and DSP.+ Performed real to I/Q conversion in a computationally efficient manner to simulate channel equalization.+ Simulated the effects of fixed-point arithmetic to observe implementation losses in FPGA systems.
-##### EEMe labs Inc
-_Founder - Mountain View, Ca_  _June 2012 to Present_
-+ Currently building [reachd](www.reachd.me). Using Natural Language Processing to generate automatic,intelligent and context aware SMS responses. + Created WalkBack, a product for student safety. Now in app store. 
+##### EEMe labs
+_Founder - Mountain View, Ca_  _June 2012 to October 2013_
++ Built [reachd](www.reachd.me). Using Natural Language Processing to generate automatic,intelligent and context aware SMS responses to questions about user's location. (Previously) available in in App Store.+ Created WalkBack, a product for student safety while in college. (Previously) available in App store.
++ Built e-mail automation tools for cold e-mailing leads similar to SalesLoft Cadence and Outreach.io.
+
 
 <a id="skills"></a>
 ## Skills and Knowledge
 
-**Programming Languages**:
-
-+ Python (Numpy/Scipy/NLTK/Flask)
-+ Objective-C (Cocoa & iOS)
-+ Javascript (Meteor)
-+ MATLAB/Octave
+**Languages & Tools in Production Environments**
+ 
++ Python: [NLTK/Flask/Numpy/Scipy]
++ Objective-C [iOS/Cocoa]
++ Javascript/Node [Meteor]
++ MATLAB/Octave [DSP/Image Processing]
 + MongoDB
-+ C
-+ SQL (Postgres/MySQL)
-+ C++ & Boost Libraries
-
-**Other**:
-
-+ Git, Subversion
++ RegEx
++ C [Microcontroller]
++ SQL [Postgres/MySQL/Teradata-Aster]
++ C++ [Boost Libraries]
++ Git & Subversion
 + XCode, VIM, Eclipse
-+ Heroku, AWS
-+ Weka, NLTK
-+ Machine shop tools, Autodesk Inventor
++ Heroku
++ AWS [ElasticBeanStalk/S3/EC2]
 
-**Hobbies**:
+**Language & Tools for Fun**:
 
-+ Reading about the Fourier Transform
++ Haskell, Julia, R
++ Arduino
++ Wekaform
 + Natural Language Processing
 
 <a id="courses"></a>
