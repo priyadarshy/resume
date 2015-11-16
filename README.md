@@ -144,6 +144,7 @@ _June 2009 – August 2009_
 + **[reachd](http://www.reachd.me)**: Context aware and auto-response SMS app. [Link](www.reachd.me)  
 + **[LUMOback](https://lumobodytech.com)**: Second full-time engineer. Wrote DSP and Machine Learning algorithms for activity recognition and health tracking. 
 
+<a id="opensource"></a>
 ### Open Source Projects
 + **[APBeacons](https://github.com/priyadarshy/APBeacons)**: iOS 7 provides developers access to iBeacons. When using an iOS device as a beacon you are unable to broadcast with the app being in the background. APBeacons was designed as a workaround to this issue. APBeacons uses CoreBluetooth in both the peripheral and central mode simultaneously in order to make background broadcasting possible.
 + **[GoogleCalendarV3](https://pypi.python.org/pypi/GoogleCalendarV3/0.1.7)** is a python wrapper on Google Calendar's API. This was **downloaded 700 times** in the past month. 
@@ -230,6 +231,20 @@ skype: ashutosh.priyadarshy
 [Twitter](www.twitter.com/thepriyadarshy) |
 [GitHub](www.github.com/thepriyadarshy) |
 [Facebook](www.facebook.com/thepriyadarshy)
+
+##### Fast Navigation:
+[Education](#education)   
+[Work & Research Experience](#researchwork)  
+[Skills & Knowledge](#skills)   
+[Relevant Courses](#courses)  
+[Products Built](#products)
+[Open Source Projects](#opensource)
+[Publications](#publications)  
+[Teaching Experience](#teaching)  
+[Competitions](#competitions)  
+[Awards](#awards)  
+[Older Stuff](#old)  
+[Contact](#contact)
 
 
 
