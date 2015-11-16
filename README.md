@@ -1,11 +1,12 @@
 ### Ashutosh Priyadarshy
 
 ##### Objective:
-Apply my mathematical intuition, programming and DSP skills to solve problems.
+Looking for a software position where I can code, talk to customers, and work
+with and/or lead engineering teams. 
 
 #### Fast Navigation:
 [Education](#education)   
-[Research & Work Experience](#researchwork)  
+[Work & Research Experience](#researchwork)  
 [Skills & Knowledge](#skills)   
 [Relevant Courses](#courses)  
 [Products Built](#products)  
@@ -27,13 +28,31 @@ GPA: **3.72**/4.00
 <a id="researchwork"></a>
 ## Research & Work Experience
 
+##### Sunsama
+_Co-Founder - San Mateo, CA & Portland, OR_
+_October 2013 to November 2015_
+
++ Built initial team of 5 engineers. 
++ Built initial prototypes in Meteor and Python. 
++ Raised Angel funding.
++ Performed outbound sales and customer conversations. 
++ Used Python/Flask/NLTK to build an e-mail "AI" that automatically handled
+  requests like "find a time for Joe and I to meet next week". 
++ Built the "scheduling engine" algorithms which takes an arbitrary number of users,
+  calendars, preferences and returns good times to meet while accounting for
+  travel times and location.
+
 ##### LUMOBody Tech
 _DSP and User Interaction Engineer - Palo Alto, Ca_  
 _October 2011 to July 2013_
 
 + Wrote DSP algorithms for gait analysis and activity recognition. (Pedometry, calories, distance, impact). 
 + Wrote machine learning algorithm to estimate user height from accelerometer signals.
-+ Helped transition algorithms from Hidden Markov Models to a DSP approach to reduce computational load on-board. 
++ Helped transition algorithms from Hidden Markov Models to a DSP approach to reduce computational load on-board.
++ Coordinated clinical research with Stanford university to test algorithms I
+  developed. 
++ Performed hardware testing pre-production, during production runs and
+  post-production. 
 
 ##### Virginia Image and Video Analysis  
 _Student Researcher at the University of Virginia_  
@@ -65,9 +84,11 @@ _Founder - Mountain View, Ca_  _June 2012 to Present_
 
 **Programming Languages**:
 
-+ MATLAB/Octave
-+ Python + (Numpy/Scipy/NLTK)
++ Python (Numpy/Scipy/NLTK/Flask)
 + Objective-C (Cocoa & iOS)
++ Javascript (Meteor)
++ MATLAB/Octave
++ MongoDB
 + C
 + SQL (Postgres/MySQL)
 + C++ & Boost Libraries
@@ -77,8 +98,8 @@ _Founder - Mountain View, Ca_  _June 2012 to Present_
 + Git, Subversion
 + XCode, VIM, Eclipse
 + Heroku, AWS
-+ Machine shop tools, Autodesk Inventor
 + Weka, NLTK
++ Machine shop tools, Autodesk Inventor
 
 **Hobbies**:
 
@@ -115,6 +136,9 @@ _Founder - Mountain View, Ca_  _June 2012 to Present_
 <a id="products"></a>
 ## Products Built
 
++ **[Sunsama](https://sunsama.com)**: Founder, led team of 5 engineers. Built
+  original versions and various MVPs including an e-mail based assistant that
+  auto-scheduled events. 
 + **[WalkBack](www.walkback.me)**: Mobile-app for student safety. [App Store](https://itunes.apple.com/us/app/walkback/id625953084?mt=8)  
 + **[reachd](www.reachd.me)**: Context aware and auto-response SMS app. [Link](www.reachd.me)  
 + **[LUMOback](www.lumoback.com)**: Second full-time engineer. Wrote DSP and Machine Learning algorithms for activity recognition and health tracking. 
@@ -187,19 +211,18 @@ _September 2007 - May 2008_
 
 **Analog:**
 
-545 San Antonio Rd.  
-Mountain View, Ca 94040  
+2315 NE Couch St.
+Portland, OR 97232
 (703)-725-9158  
+skype: ashutosh.priyadarshy
 
 
 **Digital:**
 [root@ashuto.sh](mailto:root@ashuto.sh)
-[Homepage](www.ashuto.sh)
 [LinkedIn](www.linkedin.com/in/ashutoshpriyadarshy/)
 [Twitter](www.twitter.com/thepriyadarshy)
 [GitHub](www.github.com/thepriyadarshy)
 [Facebook](www.facebook.com/thepriyadarshy)
-[Skype](www)
 
 
 
